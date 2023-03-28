@@ -1,4 +1,3 @@
-filelist.txt
 NFI-00101001.png
 NFI-00102001.png
 NFI-00103001.png

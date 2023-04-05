@@ -2,7 +2,7 @@
 
 **Instructions:**
 
-- Open NeuralNetworksProject.ipybn file in Google Colab and run each cell in file
+- Open NeuralNetworksProject.ipynb file in Google Colab and run each cell in file
 
 **Network Architecture:**
 
